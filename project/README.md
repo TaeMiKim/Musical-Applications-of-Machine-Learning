@@ -49,5 +49,5 @@ convert ``.wav`` files to ``.npy``
                    --exp_path 154874``
 
 ### 6. Final Report   
-[Report](https://github.com/TaeMiKim/Musical-Applications-of-Machine-Learning/blob/main/project/KSE527_Final_Report.pdf)
+[Report](https://github.com/TaeMiKim/Musical-Applications-of-Machine-Learning/blob/main/project/Final_Report.pdf)
 
