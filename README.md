@@ -6,3 +6,6 @@ This contains source code for
 - Homework
 - Practices
 - Project
+
+### Reference
+https://github.com/juhannam/gct634-ai613-2021
