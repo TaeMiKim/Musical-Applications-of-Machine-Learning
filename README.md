@@ -5,3 +5,4 @@ Code repository for AI613 Musical Applications of Machine Learning (Fall 2021)
 This contains source code for
 - Homework
 - Practices
+- Project
